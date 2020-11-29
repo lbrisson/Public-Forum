@@ -1,0 +1,84 @@
+.topicNames {
+  color: #4696ec;
+}
+
+.topicNames:hover {
+  color: #e53b2f;
+}
+
+.subject {
+  color: black;
+}
+
+.errorMessage {
+  color: red;
+}
+
+.newForumTopicFormSubmitBtn {
+  background-color: #4696ec;
+  color: white;
+  border: #4696ec;
+}
+
+.newForumTopicFormSubmitBtn:hover {
+  background-color: #e53b2f;
+  color: white;
+  border: #4696ec;
+}
+
+.newForumTopicFormHeader {
+  font-size: 50px;
+  font-weight: 300px;
+  color: white;
+}
+
+.newForumTopicFormSubjectField {
+  color: #161616;
+}
+
+.newTopicContainer {
+  padding-top: 40px;
+}
+
+.newMessageBtn {
+  background-color: #4696ec;
+  color: white;
+  border: #4696ec;
+}
+
+.newMessageBtn:hover {
+  background-color: #e53b2f;
+  color: white;
+}
+
+.NewMessageField {
+  padding-top: 40px;
+}
+
+.addTopicButton {
+  background-color: #4696ec;
+  color: white;
+}
+
+.addTopicButton:hover {
+  background-color: #e53b2f;
+  color: white;
+}
+
+.BackButton {
+  background-color: #4696ec;
+  color: white;
+}
+
+.BackButton:hover {
+  background-color: #e53b2f;
+  color: white;
+}
+
+.deleteButton:hover {
+  color: rgb(226, 0, 0);
+}
+
+.updateButton:hover {
+  color: #4696ec;
+}
